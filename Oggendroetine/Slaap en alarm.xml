@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Slaap en alarm.png</filename>
+	<path>/my-project-name/Slaap en alarm.png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Alarm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>706</xmin>
+			<ymin>306</ymin>
+			<xmax>1021</xmax>
+			<ymax>718</ymax>
+		</bndbox>
+	</object>
+</annotation>
